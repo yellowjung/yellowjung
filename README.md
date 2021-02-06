@@ -7,7 +7,7 @@
 ---
 
 ## Software Engineer
-- System
+- System, Server
 - Backend
 - Web
 - Kernel
