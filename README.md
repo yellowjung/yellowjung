@@ -16,7 +16,7 @@
 - Machine Learning
 - Spring
 - Docker, K8s
-
+- IOS
 <div align = center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyellowjung&count_bg=%23A3A7EB&title_bg=%23F178CB&icon=firefox.svg&icon_color=%23E9D347&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
