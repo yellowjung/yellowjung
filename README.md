@@ -91,5 +91,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-six-self-71.vercel.app/api?username=yellowjung&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-six-self-71.vercel.app/api/top-langs/?username=yellowjung&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-self-71.vercel.app/api/top-langs/?username=yellowjung&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
